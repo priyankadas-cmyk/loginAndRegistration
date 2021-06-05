@@ -1,0 +1,14 @@
+header{
+    position:fixed;
+    overflow: hidden;
+    top: 0;
+    width: 86%;
+    background: white;
+}
+
+.main{
+    margin-top: 13%;
+}
+.cover {
+    text-align: center;
+}
